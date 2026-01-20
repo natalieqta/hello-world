@@ -1,6 +1,4 @@
 # hello-world
-introduction to github for Natalie
-
 Hi, I’m Natalie — Director of Peolple and Culture with a focus on people experience, learning, and AI-enabled workflows.
 
 What I work on:
