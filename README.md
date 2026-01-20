@@ -1,7 +1,13 @@
 # hello-world
 introduction to github for Natalie
 
-Hi people of the net!
+Hi, I’m Natalie — Director of Peolple and Culture with a focus on people experience, learning, and AI-enabled workflows.
 
-Natalie here, I am supposed to introduce myself and then commit a change.
-This is very interesting and I like tacs.
+What I work on:
+- Tools that improve onboarding and employee engagement  
+- Automations for HR and internal communications  
+- Experiments connecting culture with developer productivity
+- Removing barriers to AI adoption across our company
+
+Currently learning:
+- How to use AI effectively through Overclock's AI Accelerator program
